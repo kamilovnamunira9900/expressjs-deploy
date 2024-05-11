@@ -9,9 +9,9 @@ app.get("/", (req, res) => {
 
 app.get("/about", (req, res) => {
     res.json({
-        name: "Jamol",
-        surname: "Isaboyev",
-        age: 20,
+        name: "Munira",
+        surname: "Haqberdiyeva",
+        age: 23,
     });
 });
 
